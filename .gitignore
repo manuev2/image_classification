@@ -1,0 +1,24 @@
+# General
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env.py
+venv/
+ENV/
+
+# Project-specific
+data/
+tests/data/
+*.pth
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.idea/
+.vscode/
+*.swp
+*~
